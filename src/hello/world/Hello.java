@@ -1,4 +1,4 @@
-package hello.worl;
+package hello.world;
 
 public class HelloWorld {
 
